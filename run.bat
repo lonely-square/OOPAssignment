@@ -1,1 +1,0 @@
-t  < data.txt > results.txt
